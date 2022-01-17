@@ -1,12 +1,12 @@
-Team name:team_name
+Team name:JADDV
 All members will clone the repo in the local machine.
 Person1:
-Name :- person_name
-Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+Name :- Jeel
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-front-end
 Why did you choose this field (at least 100 chars)?
-Answer :
+Answer :i like this field work
 Where do you want to yourself in 5 years?
-Answer:
+Answer:good position at company
 Add, commit and push code from the local machine. Work together.
 Person2:
 Name :- person_name
