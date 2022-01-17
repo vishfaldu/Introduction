@@ -1,0 +1,50 @@
+Team name:team_name
+All members will clone the repo in the local machine.
+Person1:
+Name :- person_name
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+Why did you choose this field (at least 100 chars)?
+Answer :
+Where do you want to yourself in 5 years?
+Answer:
+Add, commit and push code from the local machine. Work together.
+Person2:
+Name :- person_name
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+Why did you choose this field (at least 100 chars)?
+Answer :
+Where do you want to yourself in 5 years?
+Answer:
+Add, commit and push code from the local machine. Work together.
+Person3:
+Name :- person_name
+Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
+Why did you choose this field (at least 100 chars)?
+Answer :
+Where do you want to yourself in 5 years?
+Answer:
+Add, commit and push code from the local machine. Work together.
+Person4:
+Name :- person_name
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
+Why did you choose this field (at least 100 chars)?
+Answer :
+Where do you want to yourself in 5 years?
+Answer:
+Add, commit and push code from the local machine. Work together.
+Person5:
+Name :- person_name
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
+Why did you choose this field (at least 100 chars)?
+Answer :
+Where do you want to yourself in 5 years?
+Answer:
+Add, commit and push code from the local machine. Work together.
+Person6:
+Name :- person_name
+Which field of IT are you interested(front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
+Why did you choose this field (at least 100 chars)?
+Answer :
+Where do you want to yourself in 5 years?
+Answer:
+Add, commit and push code from the local machine. Work together.
