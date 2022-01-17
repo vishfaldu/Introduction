@@ -23,9 +23,6 @@ Where do you want to yourself in 5 years?
 Answer:I will see myself as a full stack web development after five years.
 Add, commit and push code from the local machine. Work together.
 
-Person3:
-Name :- 
-Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
 
 Person2:
 Name :- Aakashkumar Rawal
