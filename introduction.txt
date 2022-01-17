@@ -1,5 +1,6 @@
 Team name:JADDV
 All members will clone the repo in the local machine.
+
 Person1:
 Name :- Jeel
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-front-end
@@ -8,32 +9,28 @@ Answer :i like this field work
 Where do you want to yourself in 5 years?
 Answer:good position at company
 Add, commit and push code from the local machine. Work together.
+
+
 Person2:
 Name :- Dhara Vachhani
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
 I will choose either front-end or backend.
 Why did you choose this field (at least 100 chars)?
 Answer :I will choose above two fields because I am aware with HTML,CSS and javascript for front-end and I am also aware with SQL query so it is usefull for backend. 
-
-Name :- 
-Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
-Answer :
-
 Where do you want to yourself in 5 years?
 Answer:I will see myself as a full stack web development after five years.
 Add, commit and push code from the local machine. Work together.
 
-
-Person2:
+Person3:
 Name :- Aakashkumar Rawal
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-Front-end
-
 Why did you choose this field (at least 100 chars)?
 Answer : I choose front-end because it has Angular, javascript, flutter. 
 Where do you want to yourself in 5 years?
 Answer:i will be senior developer,
 Add, commit and push code from the local machine. Work together.
-Person3:
+
+Person4:
 Name :- Dhaval Dubariya
 Backend:
 Why did you choose this field (at least 100 chars)?
@@ -52,12 +49,4 @@ Why did you choose this field (at least 100 chars)?
 Answer : I want to explore more of AI/ML, as it is future and we are almost near to the era where these techs are used mostly everywhere. And about AR or MR I have quite experience in these area and I would like to explore further into it.
 Where do you want to yourself in 5 years?
 Answer: Confident, Independent, Happy, at a higher(senior) position.
-Add, commit and push code from the local machine. Work together.
-Person6:
-Name :- person_name
-Which field of IT are you interested(front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
-Why did you choose this field (at least 100 chars)?
-Answer :
-Where do you want to yourself in 5 years?
-Answer:
 Add, commit and push code from the local machine. Work together.
