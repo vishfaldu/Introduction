@@ -33,12 +33,12 @@ Where do you want to yourself in 5 years?
 Answer:
 Add, commit and push code from the local machine. Work together.
 Person5:
-Name :- person_name
-Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
+Name :- Vishruti Faldu
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- AI/ML, AR/MR
 Why did you choose this field (at least 100 chars)?
-Answer :
+Answer : I want to explore more of AI/ML, as it is future and we are almost near to the era where these techs are used mostly everywhere. And about AR or MR I have quite experience in these area and I would like to explore further into it.
 Where do you want to yourself in 5 years?
-Answer:
+Answer: Confident, Independent, Happy, at a higher(senior) position.
 Add, commit and push code from the local machine. Work together.
 Person6:
 Name :- person_name
