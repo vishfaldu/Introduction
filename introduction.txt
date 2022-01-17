@@ -9,18 +9,19 @@ Where do you want to yourself in 5 years?
 Answer:good position at company
 Add, commit and push code from the local machine. Work together.
 Person2:
-Name :- person_name
+Name :- Dhara Vachhani
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):-
+I will choose either front-end or backend.
 Why did you choose this field (at least 100 chars)?
-Answer :
+Answer :I will choose above two fields because I am aware with HTML,CSS and javascript for front-end and I am also aware with SQL query so it is usefull for backend. 
 Where do you want to yourself in 5 years?
-Answer:
+Answer:I will see myself as a full stack web development after five years.
 Add, commit and push code from the local machine. Work together.
 Person3:
-Name :- person_name
+Name :- 
 Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-
 Why did you choose this field (at least 100 chars)?
-Answer :
+Answer : 
 Where do you want to yourself in 5 years?
 Answer:
 Add, commit and push code from the local machine. Work together.
